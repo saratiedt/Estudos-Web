@@ -1,0 +1,33 @@
+nav ul li.menu a {
+  color: white !important;
+  font-size: 20px;
+}
+.menu a:hover {
+  color: hotpink !important;
+}
+
+header {
+  margin-bottom: 76px;
+}
+.navbar-brand img {
+  max-height: 100px;
+  max-width: 50%;
+}
+.carousel-indicators li {
+  width: 10px;
+  height: 10px;
+  border-radius: 100%;
+  background-color: hotpink;
+}
+.titulo-produto {
+  color: hotpink;
+  margin-bottom: 50px;
+  margin-top: 20px;
+}
+body{
+  background-color: #ffdbf6;
+}
+.tamanho-icone {
+  font-size: 40px;
+  color: #464f54;
+}
