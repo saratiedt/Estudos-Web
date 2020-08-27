@@ -24,10 +24,21 @@ header {
   margin-bottom: 50px;
   margin-top: 20px;
 }
-body{
+
+.titulo-depoimento {
+  color: white;
+  margin-bottom: 50px;
+  margin-top: 20px;
+}
+body {
   background-color: #ffdbf6;
 }
 .tamanho-icone {
   font-size: 40px;
-  color: #464f54;
+  color: #23a9f1;
+}
+
+.depoimentos {
+  margin-top: 50px;
+  background-color: #9488ff;
 }
