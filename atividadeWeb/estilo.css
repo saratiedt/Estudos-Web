@@ -47,3 +47,18 @@ body {
   margin-bottom: 40px;
   color: white;
 }
+
+.rodape {
+  background-color: #ffdbf6;
+  color: hotpink;
+}
+
+.text-muted {
+  color: #82767f !important;
+}
+
+.text-muted:hover {
+  color: hotpink !important;
+}
+
+
